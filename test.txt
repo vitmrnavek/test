@@ -1,0 +1,14 @@
+import numpy
+
+První co tak git init zakládá repo ze složky ve které jsem
+
+git status = vrací status ve složce, jaká branch (vývojáøská vìtev), co obsahuje za files a nápovìdu
+
+git pøidej složky 
+git add (*) všechny složky, nebo název složky
+
+git config - global user.email 
+definuj do jakého repozitáøe se ti to uloží
+
+git commit -m=(komentáø)
+založ branch
